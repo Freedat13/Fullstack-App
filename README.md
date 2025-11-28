@@ -24,7 +24,7 @@ cd backend
 npm install
 
 4. Seed sample data (optional):
-npm run seed
+node seed/seed.js
 
 5. Start server:
 npm run dev
@@ -35,9 +35,9 @@ Backend server runs on `http://localhost:5000`
 
 ### Frontend
 1. In another terminal:
-cd frontend
-npm install
-npm run dev
+cd frontend -
+npm install - 
+npm run dev 
 
 2. Open the Vite URL (usually http://localhost:3000)
 
