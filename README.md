@@ -28,7 +28,7 @@ npm run seed
 
 5. Start server:
 npm run dev
-# or
+###### or
 npm start
 
 Backend server runs on `http://localhost:5000`
